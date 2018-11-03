@@ -252,12 +252,12 @@ namespace ModbusDeviceMonitor
         {
             if (this.ActiveMdiChild != null)
             {
-                frmDeviceSetting commSetting = new frmDeviceSetting();
+                frmDevice frmDev = (frmDevice)(this.ActiveMdiChild);
+                ModBusDevice device = frmDev._device;
+                frmDeviceSetting commSetting = new frmDeviceSetting(device);
                 commSetting.ShowDialog();
                 if (commSetting._bOk)
                 {
-                    frmDevice frmDev = (frmDevice)(this.ActiveMdiChild);
-                    ModBusDevice device = frmDev._device;
                     if (commSetting.PortIsChanged())
                     {
                         bool bCurMonitorStatus = device._bMonitor;
