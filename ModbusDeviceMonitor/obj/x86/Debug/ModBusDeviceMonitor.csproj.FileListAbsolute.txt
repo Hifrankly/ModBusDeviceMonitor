@@ -1,0 +1,14 @@
+E:\Project\ModBusDeviceMonitor\ModbusDeviceMonitor\ModbusDeviceMonitor\bin\Debug\ModbusDeviceMonitor.exe
+E:\Project\ModBusDeviceMonitor\ModbusDeviceMonitor\ModbusDeviceMonitor\bin\Debug\ModbusDeviceMonitor.pdb
+E:\Project\ModBusDeviceMonitor\ModbusDeviceMonitor\ModbusDeviceMonitor\obj\x86\Debug\ModbusDeviceMonitor.Form1.resources
+E:\Project\ModBusDeviceMonitor\ModbusDeviceMonitor\ModbusDeviceMonitor\obj\x86\Debug\ModbusDeviceMonitor.Properties.Resources.resources
+E:\Project\ModBusDeviceMonitor\ModbusDeviceMonitor\ModbusDeviceMonitor\obj\x86\Debug\ModbusDeviceMonitor.csproj.GenerateResource.Cache
+E:\Project\ModBusDeviceMonitor\ModbusDeviceMonitor\ModbusDeviceMonitor\obj\x86\Debug\ModbusDeviceMonitor.exe
+E:\Project\ModBusDeviceMonitor\ModbusDeviceMonitor\ModbusDeviceMonitor\obj\x86\Debug\ModbusDeviceMonitor.pdb
+E:\Project\ModBusDeviceMonitor\ModbusDeviceMonitor\ModbusDeviceMonitor\obj\x86\Debug\ModbusDeviceMonitor.frm8BitsSetting.resources
+E:\Project\ModBusDeviceMonitor\ModbusDeviceMonitor\ModbusDeviceMonitor\obj\x86\Debug\ModbusDeviceMonitor.frmDevice.resources
+E:\Project\ModBusDeviceMonitor\ModbusDeviceMonitor\ModbusDeviceMonitor\obj\x86\Debug\ModbusDeviceMonitor.frmDeviceSetting.resources
+E:\Project\ModBusDeviceMonitor\ModbusDeviceMonitor\ModbusDeviceMonitor\obj\x86\Debug\ModbusDeviceMonitor.frmRegisterSetting.resources
+E:\Project\ModBusDeviceMonitor\ModbusDeviceMonitor\ModbusDeviceMonitor\obj\x86\Debug\ModbusDeviceMonitor.frmOutputCoil.resources
+E:\Project\ModBusDeviceMonitor\ModbusDeviceMonitor\ModbusDeviceMonitor\obj\x86\Debug\ModbusDeviceMonitor.frmMultiBitsSetting.resources
+E:\Project\ModBusDeviceMonitor\ModbusDeviceMonitor\ModbusDeviceMonitor\obj\x86\Debug\ModBusDeviceMonitor.csprojResolveAssemblyReference.cache
